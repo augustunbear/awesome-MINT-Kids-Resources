@@ -1,7 +1,7 @@
 # awesome-MINT-Kids-Resources
-A list of resources for MINT education for Kids
+**A list of resources for MINT education for Kids**
 
-Programming
+## Programming
 
 Hardware
 Robot
@@ -10,7 +10,8 @@ Software
 Online
 App
 
+## Design
 
-Design
-
-Challenge
+## Challenge
+  - First LEGO League
+	[First LEGO League](https://www.first-lego-league.org)

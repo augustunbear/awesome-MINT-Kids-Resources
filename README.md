@@ -10,6 +10,7 @@
 - [Code club world](https://codeclubworld.org/)
 - [interacty](https://interacty.me/de/education)
 - [Roberta](https://www.roberta-home.de/)
+- [Turtle Academy](https://turtleacademy.com/)
 
 ### Robot
 - [Gears Bot](https://gears.aposteriori.com.sg/)
@@ -27,12 +28,21 @@
 - [Adafruit Makecode](https://makecode.adafruit.com/)
 - [Microbit](https://makecode.microbit.org/)
 - [Adafruit](https://learn.adafruit.com/)
+- [imagiEdu](https://imagilabs.com/pages/teachers)
+
+### Python
+- [Python for kids](https://brightchamps.com/blog/python-for-kids/)
+- [Teach kids python](https://www.makeuseof.com/python-teach-kids-top-websites/)
 
 ## Design
 ### 3D
 - [Tinkercad](https://www.tinkercad.com/)
 - [3D models](https://free3d.com/)
 - [blende](https://www.blender.org/)
+
+### Website
+ - [Website for kids](https://straw.page/free-website-builder-for-kids)
+ - [Website maker for kids](https://www.codewizardshq.com/website-maker-for-kids/)
   
 ## Challenge
   - [First LEGO League](https://www.first-lego-league.org)
@@ -42,3 +52,4 @@
 - [Education Games](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)
 - [15+ Free Coding for Kids](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)
 - [Summary of programming for kids](https://unsere-schule.org/programmieren/)
+

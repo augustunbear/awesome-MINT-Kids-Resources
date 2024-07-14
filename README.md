@@ -14,6 +14,10 @@
 
 ### Robot
 - [Gears Bot](https://gears.aposteriori.com.sg/)
+- [OpenBot](https://github.com/isl-org/OpenBot/tree/master)
+
+### Drone
+- [Tello Projects](https://www.youtube.com/watch?v=LmEcyQnfpDA)
 
 ### Minecraft Education
 - [Minecraft Education](https://education.minecraft.net/en-us/get-started)

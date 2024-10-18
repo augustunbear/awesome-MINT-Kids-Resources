@@ -66,3 +66,5 @@
 ## Local Orgnisations (Bayern Nürnberg)
 - [Meet and Code](https://www.meet-and-code.org/de/de/)
 - [MINT Logisch](https://www.mint-logisch.de/)
+- [MINT Mittelfranken](https://www.mint-mittelfranken.de/mint-angebote/)
+- [MINT labs Regensburg](https://www.mint-labs-regensburg.de/)

@@ -1,6 +1,12 @@
 # awesome-MINT-Kids-Resources
 **A list of resources for MINT education for Kids**
 
+## Event
+- [Codeweek Germany](https://www.codeweek.de/)
+- [Nürnberg Diginal Festival](https://nuernberg.digital/)
+- [Hour of code](https://hourofcode.com/pl/de/learn)
+- [Codeweek EU](https://codeweek.eu/)
+  
 ## Programming
 ### Online Platform
 - [Microsoft Makecode](https://www.microsoft.com/de-de/makecode?rtc=1)
@@ -57,7 +63,6 @@
 - [15+ Free Coding for Kids](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)
 - [Summary of programming for kids](https://unsere-schule.org/programmieren/)
 
-## Event
-- [Codeweek Germany](https://www.codeweek.de/)
-- [Nürnberg Diginal Festival](https://nuernberg.digital/)
-- [Hour of code](https://hourofcode.com/pl/de/learn)
+## Local Orgnisations (Bayern Nürnberg)
+- [Meet and Code](https://www.meet-and-code.org/de/de/)
+- [MINT Logisch](https://www.mint-logisch.de/)

@@ -59,6 +59,9 @@
   - [First LEGO League](https://www.first-lego-league.org)
   - [World Robot Olympiad](https://www.worldrobotolympiad.de/)
 
+## Science and Astronomy
+- [Space Atlas Student](https://saramjh.github.io/space_atlas_student/) — Free-to-access interactive browser models of Moon phases and Earth seasons, with an original Grade 4–8 prediction/testing worksheet. For adult-guided upper-elementary or middle-school science; the site uses Google Analytics and AdSense.
+
 ## Misc
 - [Education Games](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)
 - [15+ Free Coding for Kids](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)

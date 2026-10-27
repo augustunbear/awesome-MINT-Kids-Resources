@@ -61,6 +61,7 @@
 
 ## Science and Astronomy
 - [Space Atlas Student](https://saramjh.github.io/space_atlas_student/) — Free-to-access interactive browser models of Moon phases and Earth seasons, with an original Grade 4–8 prediction/testing worksheet. For adult-guided upper-elementary or middle-school science; the site uses Google Analytics and AdSense.
+- [Scivra](https://www.scivra.com/) - Free interactive 3D science labs for grades 9–12 (physics, chemistry, biology) in the browser.
 
 ## Misc
 - [Education Games](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)

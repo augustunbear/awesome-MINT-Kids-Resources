@@ -61,6 +61,7 @@
 
 ## Science and Astronomy
 - [Space Atlas Student](https://saramjh.github.io/space_atlas_student/) — Free-to-access interactive browser models of Moon phases and Earth seasons, with an original Grade 4–8 prediction/testing worksheet. For adult-guided upper-elementary or middle-school science; the site uses Google Analytics and AdSense.
+- [Animal Profiles](https://animalprofiles.com/) — Free animal encyclopedia with 2,873 profiles; fact files show size, diet, habitat, IUCN Red List status and a range map, and can be browsed by class, continent, habitat or diet. No sign-up.
 
 ## Misc
 - [Education Games](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)

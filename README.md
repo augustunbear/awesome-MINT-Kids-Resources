@@ -59,7 +59,12 @@
   - [First LEGO League](https://www.first-lego-league.org)
   - [World Robot Olympiad](https://www.worldrobotolympiad.de/)
 
+## Mathematics
+- [MathSprout](https://apps.microsoft.com/detail/9p98k8h1m52d?hl=en-US) - Paid Windows app for offline arithmetic practice in grades 1–4, with hints, answer explanations and printable worksheets.
+
 ## Science and Astronomy
+- [Physics Explorer](https://apps.microsoft.com/detail/9nclldcrlpfs?hl=en-US) - Paid Windows app with offline interactive physics experiments, guided investigations and explained questions; educational models, not a precision engineering instrument.
+- [Space Explorer: Planets, Moons & Galaxies](https://apps.microsoft.com/detail/9nhtrhnx47wf?hl=en-US) - Paid Windows astronomy atlas with offline object dossiers and explained quizzes; educational visualizations, not live sky maps.
 - [Space Atlas Student](https://spaceatlasedu.org/) — Free-to-access interactive browser models of Moon phases and Earth seasons, with an original Grade 4–8 prediction/testing worksheet. For adult-guided upper-elementary or middle-school science; the site uses Google Analytics and AdSense.
 - [Animal Profiles](https://animalprofiles.com/) — Free animal encyclopedia with 2,873 profiles; fact files show size, diet, habitat, IUCN Red List status and a range map, and can be browsed by class, continent, habitat or diet. No sign-up.
 - [Scivra](https://www.scivra.com/) - Free interactive 3D science labs for grades 9–12 (physics, chemistry, biology) in the browser.

@@ -68,6 +68,7 @@
 - [Space Atlas Student](https://spaceatlasedu.org/) — Free-to-access interactive browser models of Moon phases and Earth seasons, with an original Grade 4–8 prediction/testing worksheet. For adult-guided upper-elementary or middle-school science; the site uses Google Analytics and AdSense.
 - [Animal Profiles](https://animalprofiles.com/) — Free animal encyclopedia with 2,873 profiles; fact files show size, diet, habitat, IUCN Red List status and a range map, and can be browsed by class, continent, habitat or diet. No sign-up.
 - [Scivra](https://www.scivra.com/) - Free interactive 3D science labs for grades 9–12 (physics, chemistry, biology) in the browser.
+- [carboncarbon.bond](https://carboncarbon.bond/) - Free organic chemistry lessons for beginners, from a single carbon atom to the molecules of life, with 3D molecule models and a quick check after each section; no sign-up.
 
 ## Misc
 - [Education Games](https://www.stiftung-digitale-spielekultur.de/paedagogische-spiele/?filter_field_typ%5B%5D=Game%20Design%20Tool&filter=1)
